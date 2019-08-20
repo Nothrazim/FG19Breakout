@@ -122,3 +122,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   causeCameraShake: 1
   isBreakable: 1
+  sprites:
+  - {fileID: 21300000, guid: 52b93eb3c9e7d2f49842933944648636, type: 3}
+  - {fileID: 21300000, guid: dab1aab33215a224bb70f4abd8e8fdc7, type: 3}
+  health: 3
